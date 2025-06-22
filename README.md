@@ -37,3 +37,5 @@ Starts the chat interface in the terminal.
 - Plugins
 - Azure chat completion integration
 - Conversational history tracking
+- Direct Prompt Strings
+- Named Prompt Templates
