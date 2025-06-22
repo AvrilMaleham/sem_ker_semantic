@@ -18,6 +18,14 @@ Make sure **UV** is installed locally.
 
 You should be able to run the demo now.
 
+### `python example.py`
+
+Runs the simple example script.
+
+### `python gen_z_translator.py`
+
+Runs the gen z translator script.
+
 ### `python main.py`
 
 Starts the chat interface in the terminal.
@@ -25,7 +33,7 @@ Starts the chat interface in the terminal.
 # Key project skills:
 
 - Semantic Kernel
-- Native Functions
+- Semantic Functions
 - Plugins
 - Azure chat completion integration
 - Conversational history tracking
