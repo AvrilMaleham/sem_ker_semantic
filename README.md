@@ -26,6 +26,10 @@ Runs the simple example script.
 
 Runs the gen z translator script.
 
+### `python lie_detector.py`
+
+Runs the lie detector script.
+
 ### `python main.py`
 
 Starts the chat interface in the terminal.
