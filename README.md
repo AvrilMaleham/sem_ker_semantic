@@ -30,9 +30,13 @@ Runs the gen z translator script.
 
 Runs the lie detector script.
 
-### `python main.py`
+### `python gen_z_translator_chat.py`
 
-Starts the chat interface in the terminal.
+Starts the live gen z translator chat interface in the terminal.
+
+### `python lie_detector_chat.py`
+
+Starts the live lie detector chat interface in the terminal.
 
 # Key project skills:
 
