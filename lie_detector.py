@@ -1,3 +1,4 @@
+# Practice defining the function using a named prompt template
 import asyncio
 from semantic_kernel import Kernel
 from semantic_kernel.connectors.ai.open_ai import AzureChatCompletion

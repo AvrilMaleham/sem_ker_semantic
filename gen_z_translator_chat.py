@@ -1,4 +1,4 @@
-# Practice defining the function using a prompt string directly
+# Practice defining the function using a prompt string directly and adding a live chat bot
 import asyncio
 from semantic_kernel import Kernel
 from semantic_kernel.connectors.ai.open_ai import AzureChatCompletion
